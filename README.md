@@ -19,7 +19,7 @@
 
 ## 构建字体
 
-`glyphs` 文件是 [Glyphs 软件](https://glyphsapp.com/)的文件格式，可以下载它来读入源文件并导出字体。
+`glyphs` 文件是 [Glyphs 软件](https://glyphsapp.com/)的文件格式，可以使用它来读入源文件并导出字体。
 
 虽然 Google 的 [`fontmake`](https://github.com/googlefonts/fontmake) 工具集可以处理 `glyphs` 文件并构建字体，但目前的源文件因部分字形缺失，使用它来构建会报错。
 
